@@ -1,12 +1,13 @@
-# 💫 About Me:
+# About Me:
 # ✨ ¡Hola! Soy Saray<br>
-### 🎨 **Artista de corazón** y 💻 **estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  <br>Desde siempre he estado rodeada de ideas, colores y creación: dibujo, diseño y conceptualización de todo tipo de proyectos.  ### Actualmente estoy enfocando ese mismo impulso creativo hacia el **diseño y desarrollo frontend**, donde puedo combinar lo que más me apasiona: **imaginar, visualizar y dar vida a ideas**.<br><br>
+### **Artista de corazón** y **estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  <br>Desde siempre he estado rodeada de ideas, colores y creación: dibujo, diseño y conceptualización de todo tipo de proyectos.  
+### Actualmente estoy enfocando ese mismo impulso creativo hacia el **diseño y desarrollo frontend**, donde puedo combinar lo que más me apasiona: **imaginar, visualizar y dar vida a ideas**.<br><br>
 ## 🌿 Un poco sobre mí
-### - 🧠 Creo que la creatividad y la técnica deben ir de la mano, pero siempre desde la **curiosidad y la humildad por aprender**.  <br>- 💡 Me motiva la idea de **crear experiencias visuales** que transmitan algo más que solo funcionalidad.  <br>- 🖌️ Vengo del mundo artístico, por lo que tengo una **mirada estética muy desarrollada**, y busco seguir puliendo mis habilidades técnicas para complementarla.  <br>- 🚀 Aunque el backend no es lo mío, el **frontend me permite transformar la imaginación en realidad**.<br><br><br>
-## 🌸 Actualmente aprendiendo y trabajando con<br>
-### 🧩 Lenguajes y tecnologías<br>- ☕ **Java**  <br>- 🌐 **HTML** y **CSS**<br>- ⚡ **JavaScript** <br>- 🐘 **PostgreSQL** <br>- 🐍 **Python** <br>- 🤖 **Kotlin**<br><br>
-### 🎨 Herramientas creativas<br>- ✏️ **Adobe Illustrator**
-### 🌈 Mi filosofía<br>> Crear es mi forma de entender el mundo.  <br>> Aprender, mi forma de seguir creciendo en él.
+### - Creo que la creatividad y la técnica deben ir de la mano, pero siempre desde la **curiosidad y la humildad por aprender**.  <br>- 💡 Me motiva la idea de **crear experiencias visuales** que transmitan algo más que solo funcionalidad.  <br>- 🖌️ Vengo del mundo artístico, por lo que tengo una **mirada estética muy desarrollada**, y busco seguir puliendo mis habilidades técnicas para complementarla.  <br>- 🚀 Aunque el backend no es lo mío, el **frontend me permite transformar la imaginación en realidad**.<br><br><br>
+## Actualmente aprendiendo y trabajando con<br>
+### Lenguajes y tecnologías<br>- ☕ **Java**  <br>- 🌐 **HTML** y **CSS**<br>- ⚡ **JavaScript** <br>- 🐘 **PostgreSQL** <br>- 🐍 **Python** <br>- 🤖 **Kotlin**<br><br>
+### Herramientas creativas<br>- ✏️ **Adobe Illustrator**
+### Mi filosofía<br>> Crear es mi forma de entender el mundo.  <br>> Aprender, mi forma de seguir creciendo en él.
 
 
 # 💻 Tech Stack:
